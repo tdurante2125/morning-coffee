@@ -2,11 +2,11 @@ h1 {
     text-align: center;
 }
 body {
-    background:#f0f5ff
+    background:#f1d99e;
     text-align: center;
     text-size-adjust: 16;
   }
-.center {
+img {
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -15,16 +15,12 @@ body {
     max-height: 200px;
 }
 
-.poll * {
-    margin: 0px;
-    padding: 0px;
-    box-sizing:border-box;
-    margin-left: auto;
-    margin-right: auto;
-}
   .poll {
     display: flex;
-    margin: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
     padding: 10px;
     transform: translate(-50%, -50%);
     width: 50%;
