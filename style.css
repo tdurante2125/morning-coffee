@@ -6,6 +6,17 @@ body {
     text-align: center;
     text-size-adjust: 16;
   }
+ol {
+    text-align: center;
+    list-style-position: outside;
+    justify-content: center;
+}
+
+ul {
+    text-align: center;
+    justify-content: center;
+    list-style-type: outside;
+}
 img {
     display: block;
     margin-left: auto;
