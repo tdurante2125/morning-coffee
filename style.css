@@ -5,10 +5,14 @@ body {
     background: rgb(112, 85, 35);
     text-align: center;
   }
+ol {
+    text-align: center;
+}
 
   img {
     display: block;
     margin: 0;
     max-height: 200px;
     max-width: 250px;
+    align-items: center;
   }
