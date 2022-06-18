@@ -1,3 +1,12 @@
+h1 {
+    text-align: center;
+}
 body {
-    background: blue;
+    background: rgb(112, 85, 35);
+    text-align: center;
+  }
+
+  img {
+    display: block;
+    margin: 0;
   }
